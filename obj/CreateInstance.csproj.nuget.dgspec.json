@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj": {}
+    "C:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj": {}
   },
   "projects": {
-    "c:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj": {
+    "C:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj",
+        "projectUniqueName": "C:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj",
         "projectName": "CreateInstance",
-        "projectPath": "c:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj",
+        "projectPath": "C:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\CreateInstance.csproj",
         "packagesPath": "C:\\Users\\PC_4232\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\obj\\",
+        "outputPath": "C:\\Users\\PC_4232\\Desktop\\Instance\\CreateInstance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
